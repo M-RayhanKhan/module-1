@@ -1,0 +1,12 @@
+.blog{
+    border: 2px solid green;
+    color: rgb(37, 114, 37);
+    width: 30%;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 20px rgb(5, 173, 27);
+    text-align: end;
+}
